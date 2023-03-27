@@ -23,7 +23,7 @@ abstract contract Staking {
 
     struct Reward {
         uint256 amount;
-        uint256 rewardedOn;
+        uint256 rewardedOn; 
     }
 
     struct Token {
